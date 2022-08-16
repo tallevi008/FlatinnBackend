@@ -1,3 +1,9 @@
 node_modules
 logs
 .env
+vscode
+.vscode
+.vscode/settings.json
+.gitignore
+public
+
