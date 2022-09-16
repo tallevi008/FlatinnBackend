@@ -29,6 +29,7 @@ async function connect() {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
+    console.log(`Mongo Atlas DB Connected: ${client.host}`);
     const db = client.db(dbName);
     dbConn = db;
     return db;
