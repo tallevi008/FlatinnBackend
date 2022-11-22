@@ -1,9 +1,10 @@
 node_modules
+.gitignore
 logs
 .env
 vscode
 .vscode
 .vscode/settings.json
-.gitignore
+config/dev.js
 
 
