@@ -1,3 +1,3 @@
 module.exports = {
-  dbURL: process.env.ATLAS_URI,
+  dbURL: process.env.ATLAS_URI_DEV,
 };
